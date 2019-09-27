@@ -42,7 +42,7 @@ Sipeed.<br>
 foro: <a href="https://bbs.sipeed.com/">https://bbs.sipeed.com/</a><br>
 wiki: <a href="https://wiki.sipeed.com/en/maix/board/maixduino.html">https://wiki.sipeed.com/en/maix/board/maixduino.html</a><br>
 github: <a href="https://github.com/sipeed?utf8=%E2%9C%93&amp;q=maix&amp;type=&amp;language=">https://github.com/sipeed?utf8=✓&amp;q=maix&amp;type=&amp;language=</a></p>
-<p class="has-line-data" data-line-start="52" data-line-end="55">Kendrite:<br>
+<p class="has-line-data" data-line-start="52" data-line-end="55">Kendryte:<br>
 foro: <a href="https://forum.kendryte.com/">https://forum.kendryte.com/</a><br>
 github: <a href="https://github.com/kendryte">https://github.com/kendryte</a></p>
 <p class="has-line-data" data-line-start="56" data-line-end="58">*Documentación ESP32:<br>
