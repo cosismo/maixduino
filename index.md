@@ -46,6 +46,12 @@ MaixPy Run 20-classes object detection based on tiny-yolov2:
 Transformada Rápida de Fourier (El K210 tienen un acelerador de FFT por hardware). Usa el micrófono integrado en la placa:  
 [https://maixpy.sipeed.com/en/libs/Maix/fft.html](https://maixpy.sipeed.com/en/libs/Maix/fft.html)
 
+Detección de Wake Word /Reconocimiento de Voz:  
+Video:
+[https://www.youtube.com/watch?v=i5DQSper7GA](https://www.youtube.com/watch?v=i5DQSper7GA)
+Proyecto en Github:
+[https://github.com/sipeed/Maixduino/tree/master/libraries/Maix_Speech_Recognition](https://github.com/sipeed/Maixduino/tree/master/libraries/Maix_Speech_Recognition)
+
 Convertir modelo TensorFlow Lite .tflite a K210 .kmodel:  
 [https://github.com/kendryte/nncase/tree/master/examples/iris](https://github.com/kendryte/nncase/tree/master/examples/iris)  
 Basado en el modelo de clasificación de Iris de Tensor Flow:  
