@@ -14,7 +14,7 @@ Sipeed es el fabricante de la placa, Espressif del ESP32 y Kendryte del K210. Lo
 
 El K210 puede programarse:
 
-1.  Micropython (maixpy es la variante del fabricante).  _RECOMENDADO_
+1.  Micropython (MaixPy es la variante del fabricante).  _RECOMENDADO_
 2.  C++ con un SDK open source.
 3.  Arduino IDE (o PlatformIO).
 
@@ -31,7 +31,7 @@ Los puertos GPIO son configurables a 1.8 o 3.3v, dependiendo del SoC que estés 
 La alimentación puede ser por el puerto micro USB C  @5V o con una fuente en el barril con voltajes de 6 a 12 V.
 
 *Tutorial para iniciar.  
-El siguiente tutorial (inglés) explica cómo empezar con el uso básico de la cámara y face tracking. La explicación es muy buena e incluye un proceso de “prueba y error” con las versiones de maixpy. Para agilizarlos te recomendamos que uses la versión de maixpy (24/08/2019) maixpy_v0.4.0_46_gf46e4c4.bin que puedes descargar directamente aquí:  
+El siguiente tutorial (inglés) explica cómo empezar con el uso básico de la cámara y face tracking. La explicación es muy buena e incluye un proceso de “prueba y error” con las versiones de MaixPy. Para agilizarlos te recomendamos que uses la versión de MaixPy (24/08/2019) maixpy_v0.4.0_46_gf46e4c4.bin que puedes descargar directamente aquí:  
 [http://dl.sipeed.com/MAIX/MaixPy/release/master/maixpy_v0.4.0_46_gf46e4c4](http://dl.sipeed.com/MAIX/MaixPy/release/master/maixpy_v0.4.0_46_gf46e4c4)  y que personalmente hemos probado que funciona con MaixPyIDE y el ejemplo de face tracking.
 
 El tutorial:  
