@@ -48,8 +48,8 @@ Transformada Rápida de Fourier (El K210 tienen un acelerador de FFT por hardwar
 
 Detección de Wake Word /Reconocimiento de Voz:  
 Video:
-[https://www.youtube.com/watch?v=i5DQSper7GA](https://www.youtube.com/watch?v=i5DQSper7GA)
-Proyecto en Github:
+[https://www.youtube.com/watch?v=i5DQSper7GA](https://www.youtube.com/watch?v=i5DQSper7GA)  
+Proyecto en Github:  
 [https://github.com/sipeed/Maixduino/tree/master/libraries/Maix_Speech_Recognition](https://github.com/sipeed/Maixduino/tree/master/libraries/Maix_Speech_Recognition)
 
 Convertir modelo TensorFlow Lite .tflite a K210 .kmodel:  
