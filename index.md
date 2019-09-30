@@ -47,7 +47,7 @@ Transformada Rápida de Fourier (El K210 tienen un acelerador de FFT por hardwar
 [https://maixpy.sipeed.com/en/libs/Maix/fft.html](https://maixpy.sipeed.com/en/libs/Maix/fft.html)
 
 Detección de Wake Word /Reconocimiento de Voz:  
-Video:
+Video:  
 [https://www.youtube.com/watch?v=i5DQSper7GA](https://www.youtube.com/watch?v=i5DQSper7GA)  
 Proyecto en Github:  
 [https://github.com/sipeed/Maixduino/tree/master/libraries/Maix_Speech_Recognition](https://github.com/sipeed/Maixduino/tree/master/libraries/Maix_Speech_Recognition)
