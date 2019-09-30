@@ -26,7 +26,7 @@ El ESP32 puede programarse:
 
 En nuestras pruebas y varios tutoriales se usa como ambiente de desarrollo Ubuntu 18.04 LTS. Te recomedamos que lo utilices, sin embargo OSX/MacOS o Windows también pueden funcionar si estás familiarizado con ellos.
 
-Los puertos GPIO son configurables a 1.8 o 3.3v, dependiendo del SoC que estés usando. MUY IMPORTANTE: aunque puede ser compatible con hats para Arduino UNO físicamente, debes asegurarte que el coltaje es compatible. Maixduino NO TOLERA niveles lógicos de 5V, si los usas dañaras irreversiblemente los puertos o el SoC.
+Los puertos GPIO son configurables a 1.8 o 3.3v, dependiendo del SoC que estés usando. MUY IMPORTANTE: aunque puede ser compatible con shields/hats para Arduino UNO físicamente, debes asegurarte que el voltaje es compatible. Maixduino NO TOLERA niveles lógicos de 5V, si los usas dañaras irreversiblemente los puertos o el SoC.
 
 La alimentación puede ser por el puerto micro USB C  @5V o con una fuente en el barril con voltajes de 6 a 12 V.
 
