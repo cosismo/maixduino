@@ -8,9 +8,10 @@ Maixduino es una placa con dos procesadores/SoCs:
 1.  ESP32: Procesador general con WiFi y BLE, optimizado para IoT.
 2.  K210: Procesador general RISC-V con acelerador de CNNs, optimizado para AI.  
     Ambos están interconectados en el PCB por SPI.  
-    Cada procesador se programa a través de un puerto serial propio. Para ello la placa tiene un convertidor USB a TTL de dos puertos.
 
-Sipeed es el fabricante de la placa, Espressif del ESP32 y Kendryte del K210. Los tres tienen información relevante y complementaria para usar tu Maixduino.
+Cada procesador se programa a través de un puerto serial propio. Para ello la placa tiene un convertidor USB a TTL de dos puertos.
+
+Sipeed es el fabricante de la placa, Espressif del ESP32 y Kendryte del K210. Los tres fabricantes proporcionan información relevante y complementaria para usar tu Maixduino.
 
 El K210 puede programarse:
 
@@ -79,4 +80,4 @@ github:  [https://github.com/kendryte](https://github.com/kendryte)
 Quedamos a tus órdenes por esta vía.
 
 ¡Suerte!  
-Equipo Cosismo
+   Equipo Cosismo
